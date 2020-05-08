@@ -1,6 +1,10 @@
-## Welcome to my devlog
+# Welcome to my devlog
 
-Join in my journey as a game developer
+Join in my journey as a game developer. 
+## Currently working on:
+* Round 13 
+* Alone In Darkness
+
 
 
 You can use the [editor on GitHub](https://github.com/noasoder/noasoder.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
