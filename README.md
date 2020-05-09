@@ -19,6 +19,7 @@ Tweaks:
 
 Bugfixes:
 - Fixed highscore save bug
+- Balancing and various bugfixes
 
 
 ## May 7 2020 - Alone In Darkness
