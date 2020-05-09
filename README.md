@@ -5,9 +5,24 @@ Join in my journey as a game developer.
 * Round 13 - [Download](https://drive.google.com/drive/folders/1iiQOkMuxTbkQBQJywu51K4czR9A3TGsv?usp=sharing) (Google Drive)
 * Alone In Darkness
 
+
+## May 8 2020 - Round 13 
+Check out update 2.0!!!
+#### Changelog:
+New: 
+- New game icon
+
+Tweaks:
+- Start menu UI tweaks
+- Menu button tweaks
+- Support for different aspect ratios
+
+Bugfixes:
+- Fixed highscore save bug
+
+
 ## May 7 2020 - Alone In Darkness
 Animating the main character. Have a look...
-
 [![Imgur](https://i.imgur.com/ZEIjCIZ.png)](https://youtu.be/muvK5ObUaTk)
 
 
