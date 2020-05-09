@@ -8,7 +8,7 @@ Join in my journey as a game developer.
 ## May 7 2020 - Alone In Darkness
 Animating the main character. Have a look...
 
-[![Imgur](https://i.imgur.com/ZEIjCIZ.png))](https://youtu.be/muvK5ObUaTk)
+[![Imgur](https://i.imgur.com/ZEIjCIZ.png)](https://youtu.be/muvK5ObUaTk)
 
 
 ## May 6 2020 - Alone In Darkness
