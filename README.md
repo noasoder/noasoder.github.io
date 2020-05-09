@@ -11,11 +11,11 @@ Check out update 2.0!!!
 #### Changelog:
 New: 
 - New game icon
+- Support for different aspect ratios
 
 Tweaks:
 - Start menu UI tweaks
 - Menu button tweaks
-- Support for different aspect ratios
 
 Bugfixes:
 - Fixed highscore save bug
