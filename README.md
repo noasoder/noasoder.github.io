@@ -7,7 +7,8 @@ Join in my journey as a game developer.
 
 ## May 7 2020 - Alone In Darkness
 Animating the main character. Have a look...
-[![Watch on youtube]()](https://youtu.be/muvK5ObUaTk)
+
+[![Watch on youtube](https://github.com/noasoder/noasoder.github.io/blob/master/media/Sk%C3%A4rmklipp.PNG)](https://youtu.be/muvK5ObUaTk)
 
 
 ## May 6 2020 - Alone In Darkness
