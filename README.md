@@ -6,6 +6,11 @@ Join in my journey as a game developer.
 * Alone In Darkness
 
 
+## June 19 2020 - Alone In Darkness
+First artwork of the game!
+[Imgur](https://i.imgur.com/5BuR1H0.png)
+
+
 ## May 8 2020 - Round 13 
 Check out update 2.0!!!
 #### Changelog:
