@@ -1,6 +1,6 @@
 # Welcome to my devlog
 
-Join in my journey as a game developer. 
+This site will be used to push game updates and stuff.
 ## Currently working on:
 * Round 13 - [Download](https://drive.google.com/drive/folders/1iiQOkMuxTbkQBQJywu51K4czR9A3TGsv?usp=sharing) (Google Drive)
 * Alone In Darkness
@@ -9,9 +9,6 @@ Join in my journey as a game developer.
 ## June 19 2020 - Alone In Darkness
 First artwork of the game!
 [![Imgur](https://i.imgur.com/5BuR1H0.png)](https://i.imgur.com/5BuR1H0.png)
-
-
-
 
 
 ## May 8 2020 - Round 13 
